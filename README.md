@@ -12,3 +12,21 @@ The task is done by using t2.medium instance & Python in Local Machine (Spyder)
 
 Script Source:
 
+popwc.py = 
+ 
+t5popfilter.py = 
+
+t5popmerge.py =
+
+t5popsort =
+
+rapwc.py =
+
+t5rapfilter.py =
+
+t5rapmerge.py =
+
+t5rapsort.py =
+
+Python in Local Machine.py = 
+
