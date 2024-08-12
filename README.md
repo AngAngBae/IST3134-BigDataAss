@@ -2,9 +2,7 @@ IST3134
 
 Subject: Big Data Analytics IST3134 Group Assignment
 
-Students Name: Ang Qi Zheng, Choong Hoi Chun, Gan Cheng Jie
-
-Student ID: 20063848, 20051041, 21067962
+Students Name & Student ID: Ang Qi Zheng 20063848, Choong Hoi Chun 20051041, Gan Cheng Jie 21067962
 
 Lecturer: Prof. Lau Sian Lun 
 
