@@ -7,7 +7,7 @@
 
 # The task is done by using t2.medium instance & Python in Local Machine (Spyder)
 
-# Script Source:
+# SCRIPT SOURCE:
 # popwc.py = Lab 4, 6 & 9
 # t5popfilter.py = Lab 9 & ChatGPT with self-modification
 # t5popmerge.py = Lab 9 & ChatGPT with self-modification
